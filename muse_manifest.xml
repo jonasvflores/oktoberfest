@@ -1,0 +1,214 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1557358635460">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="news6.css" crc="4251075038" ref="news6"/>
+    <file name="news0.css" crc="4263188921" ref="news0"/>
+    <file name="news2.css" crc="395987990" ref="news2"/>
+    <file name="news1.css" crc="4228621477" ref="news1"/>
+    <file name="index.css" crc="425770888" ref="index"/>
+    <file name="news3.css" crc="3971434954" ref="news3"/>
+    <file name="news4.css" crc="176931748" ref="news4"/>
+    <file name="news5.css" crc="3841787578" ref="news5"/>
+    <file name="news7.css" crc="352203739" ref="news7"/>
+  </folder>
+  <folder name="assets">
+    <file name="prog.html" crc="4039758734" seo="true" mt="1556892258000"/>
+    <file name="header.html" crc="4108946143" seo="true" mt="1557255885000"/>
+    <file name="index.html" crc="3822508407" seo="true" mt="1557335060000"/>
+    <file name="index2.html" crc="215088094" seo="true" mt="1557335852000"/>
+    <file name="index3.html" crc="4045511441" seo="true" mt="1557335868000"/>
+    <file name="index4.html" crc="4221750780" seo="true" mt="1557335886000"/>
+    <file name="index5.html" crc="4039525657" seo="true" mt="1557335900000"/>
+    <file name="index6.html" crc="4115403702" seo="true" mt="1557335914000"/>
+    <file name="index7.html" crc="4207442383" seo="true" mt="1557335924000"/>
+    <file name="index8.html" crc="195157135" seo="true" mt="1557337276000"/>
+    <file name="news0.muse" crc="3972301245" seo="true" mt="1557339459000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:news0:news1:news2:news3:news4:news5:news6:news7"/>
+    <file name="museutils.js" crc="340535759" ref="index:news0:news1:news2:news3:news4:news5:news6:news7"/>
+    <file name="whatinput.js" crc="86476730" ref="index:news0:news1:news2:news3:news4:news5:news6:news7"/>
+    <file name="museconfig.js" crc="310584261" ref="index:news0:news1:news2:news3:news4:news5:news6:news7"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:news0:news1:news2:news3:news4:news5:news6:news7"/>
+    <file name="require.js" crc="7928878" ref="index:news0:news1:news2:news3:news4:news5:news6:news7"/>
+    <file name="webpro.js" crc="4059564322" ref="news2:news3:news7"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="news2:news3:news7"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="news2:news3:news7"/>
+    <file name="touchswipe.js" crc="4075097462" ref="news2:news3:news7"/>
+  </folder>
+  <folder name="images">
+    <file name="u318-5.png" crc="77042568" ref="index"/>
+    <file name="logo_festa-crop-u2299.png" crc="3815490036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u2301.png" crc="15798367" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grupo 89-crop-u2256a.png" crc="382825360" seo="true" ref="index:news0:news1:news2:news3:news4:news5:news6:news7">
+      <caption webpage="news2" alt=""/>
+      <caption webpage="news0" alt=""/>
+      <caption webpage="news1" alt=""/>
+      <caption webpage="news7" alt=""/>
+      <caption webpage="news6" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news4" alt=""/>
+      <caption webpage="news5" alt=""/>
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="eduardo1.jpg" crc="341152812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2330-4.png" crc="126623990" ref="index"/>
+    <file name="u2331-4.png" crc="4236778854" ref="index"/>
+    <file name="news0.jpg" crc="3792858640" seo="true" ref="index:news0">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news0" alt=""/>
+    </file>
+    <file name="u2203-4.png" crc="217665534" ref="index"/>
+    <file name="u2206-4.png" crc="529857239" ref="index"/>
+    <file name="projeto.jpg" crc="3974562313" seo="true" ref="index:news1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="u589-4.png" crc="3874201559" ref="index"/>
+    <file name="senhora.jpg" crc="4159753047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1639-6.png" crc="4108482923" ref="index"/>
+    <file name="u1645-6.png" crc="535277701" ref="index"/>
+    <file name="anita.jpg" crc="4210855714" seo="true" ref="index:news3">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="u1684-6.png" crc="240958010" ref="index"/>
+    <file name="u1687-8.png" crc="232281186" ref="index"/>
+    <file name="kids.jpg" crc="4086288540" seo="true" ref="index:news4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="u1715-6.png" crc="4094380504" ref="index"/>
+    <file name="u1718-8.png" crc="219377179" ref="index"/>
+    <file name="image026.jpg" crc="3966339165" seo="true" ref="index:news5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news5" alt=""/>
+    </file>
+    <file name="u1734-4.png" crc="383819272" ref="index"/>
+    <file name="u1753-8.png" crc="3909777531" ref="index"/>
+    <file name="rainha.jpg" crc="207951330" seo="true" ref="index:news6">
+      <caption webpage="index" alt=""/>
+      <caption webpage="news6" alt=""/>
+    </file>
+    <file name="u1769-8.png" crc="3814546805" ref="index"/>
+    <file name="u1771-8.png" crc="509760750" ref="index"/>
+    <file name="compre ingresso.jpg" crc="3932740706" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1791-4.png" crc="219167115" ref="index"/>
+    <file name="grupo 85.png" crc="3866490251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_festa-crop-u2745.png" crc="307789109" seo="true" ref="news0">
+      <caption webpage="news0" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u2747.png" crc="4038849336" seo="true" ref="news0">
+      <caption webpage="news0" alt=""/>
+    </file>
+    <file name="u2740-4.png" crc="440102376" ref="news0"/>
+    <file name="u2742-26.png" crc="4042290936" ref="news0"/>
+    <file name="logo_festa-crop-u2809.png" crc="307789109" seo="true" ref="news1">
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u2811.png" crc="4038849336" seo="true" ref="news1">
+      <caption webpage="news1" alt=""/>
+    </file>
+    <file name="u2806-4.png" crc="4266693807" ref="news1"/>
+    <file name="u2808-10.png" crc="322456494" ref="news1"/>
+    <file name="logo_festa-crop-u2888.png" crc="307789109" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u2890.png" crc="4038849336" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="u2864-4.png" crc="136364461" ref="news2"/>
+    <file name="senhora-crop-u2875.jpg" crc="4929525" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="news2:news3:news7"/>
+    <file name="senhora2-crop-u2877.jpg" crc="107197087" seo="true" ref="news2">
+      <caption webpage="news2" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="news2:news3:news7"/>
+    <file name="u2866-14.png" crc="454674544" ref="news2"/>
+    <file name="logo_festa-crop-u3020.png" crc="307789109" seo="true" ref="news3">
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u3022.png" crc="4038849336" seo="true" ref="news3">
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="u2981-4.png" crc="106386736" ref="news3"/>
+    <file name="cara.jpg" crc="302047272" seo="true" ref="news3">
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="dupla.jpg" crc="4150567420" seo="true" ref="news3">
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="dupla2.jpg" crc="496908010" seo="true" ref="news3">
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="todos.jpg" crc="466053470" seo="true" ref="news3">
+      <caption webpage="news3" alt=""/>
+    </file>
+    <file name="u2983-17.png" crc="110196100" ref="news3"/>
+    <file name="logo_festa-crop-u3158.png" crc="307789109" seo="true" ref="news4">
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u3160.png" crc="4038849336" seo="true" ref="news4">
+      <caption webpage="news4" alt=""/>
+    </file>
+    <file name="u3153-4.png" crc="3795135344" ref="news4"/>
+    <file name="u3155-27.png" crc="509623841" ref="news4"/>
+    <file name="logo_festa-crop-u3206.png" crc="307789109" seo="true" ref="news5">
+      <caption webpage="news5" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u3208.png" crc="4038849336" seo="true" ref="news5">
+      <caption webpage="news5" alt=""/>
+    </file>
+    <file name="u3201-4.png" crc="3938231214" ref="news5"/>
+    <file name="u3203-54.png" crc="534992012" ref="news5"/>
+    <file name="logo_festa-crop-u3254.png" crc="307789109" seo="true" ref="news6">
+      <caption webpage="news6" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u3256.png" crc="4038849336" seo="true" ref="news6">
+      <caption webpage="news6" alt=""/>
+    </file>
+    <file name="u3249-4.png" crc="246044001" ref="news6"/>
+    <file name="u3251-89.png" crc="3862495622" ref="news6"/>
+    <file name="logo_festa-crop-u3300.png" crc="307789109" seo="true" ref="news7">
+      <caption webpage="news7" alt=""/>
+    </file>
+    <file name="grupo 87-crop-u3302.png" crc="4038849336" seo="true" ref="news7">
+      <caption webpage="news7" alt=""/>
+    </file>
+    <file name="u3297-4.png" crc="19679854" ref="news7"/>
+    <file name="eduardo1-crop-u3312.jpg" crc="150743066" seo="true" ref="news7">
+      <caption webpage="news7" alt=""/>
+    </file>
+    <file name="eduardo2-crop-u3314.jpg" crc="354281531" seo="true" ref="news7">
+      <caption webpage="news7" alt=""/>
+    </file>
+    <file name="eduardo3-crop-u3310.jpg" crc="59920447" seo="true" ref="news7">
+      <caption webpage="news7" alt=""/>
+    </file>
+    <file name="u3299-13.png" crc="4218368759" ref="news7"/>
+    <file name="u1591-8.png" crc="502048146" ref="index"/>
+  </folder>
+  <file name="index.html" crc="125286101" seo="true" mt="1557358629529" redirect="true"/>
+  <file name="news0.html" crc="3947462182" seo="true" mt="1557347061956" redirect="true"/>
+  <file name="news1.html" crc="4078792814" seo="true" mt="1557346074824" redirect="true"/>
+  <file name="news2.html" crc="3919818762" seo="true" mt="1557346148399" redirect="true"/>
+  <file name="news3.html" crc="211971227" seo="true" mt="1557346211445" redirect="true"/>
+  <file name="news4.html" crc="68503832" seo="true" mt="1557346262295" redirect="true"/>
+  <file name="news5.html" crc="135805357" seo="true" mt="1557346567021" redirect="true"/>
+  <file name="news6.html" crc="3791767174" seo="true" mt="1557346685395" redirect="true"/>
+  <file name="news7.html" crc="143319941" seo="true" mt="1557346918664" redirect="true"/>
+</manifest>
